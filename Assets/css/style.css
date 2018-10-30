@@ -21,17 +21,18 @@ header {
   height: 70px;
   border-bottom: 1px;
   text-align: center;
-  padding-left: 200px;
 }
 .navbar {
   width: auto;
   max-width: 960px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .contaner {
   background-color: white;
-  margin-left: 200px;
-  margin-right: 0 auto;
+  margin-left: auto;
+  margin-right: auto;
   margin-top: 30px;
   width: 960px;
 }
@@ -188,7 +189,7 @@ footer {
   }
   .navbar {
     width: auto;
-    padding-right: 40px;
+    padding-right: 0px;
   }
 }
 
@@ -209,12 +210,15 @@ footer {
     margin: 0;
     padding: 0;
   }
+  .navlinks {
+    float: left;
+    margin-left: 31%;
+  }
   #about,
   #contact {
     padding-right: 10px;
     padding-left: 10px;
     padding-top: 5px;
-
     margin-top: 10px;
   }
 
@@ -223,7 +227,6 @@ footer {
     padding-top: 5px;
     padding-left: 10px;
     margin-top: 10px;
-    margin-right: 31%;
   }
   .navbar {
     padding: 0;
