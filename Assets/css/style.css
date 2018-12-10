@@ -65,13 +65,18 @@ header {
 
 /* learned in class will implenet later */
 
-/* a:link {
+a:link {
   color: gray;
 }
 
 a:hover {
   background-color: lightsteelblue;
-} */
+}
+
+.active {
+  background-color: lightsteelblue;
+  color: white !important;
+}
 
 .name {
   float: left;
