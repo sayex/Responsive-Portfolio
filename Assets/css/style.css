@@ -16,12 +16,14 @@ h1 {
   font-weight: bold;
   font-family: Georgia, "Times New Roman", Times, serif;
 }
+
 header {
   background-color: #ffffff;
   height: 70px;
   border-bottom: 1px;
   text-align: center;
 }
+
 .navbar {
   width: auto;
   max-width: 960px;
@@ -148,6 +150,7 @@ footer {
   position: relative;
   margin-bottom: 25px;
 }
+
 .boxtittle {
   position: absolute;
   bottom: 10px;
@@ -165,11 +168,13 @@ footer {
     padding-right: 20px;
     width: auto;
   }
+
   .contaner {
     margin-left: 20px;
     margin-right: 20px;
     width: auto;
   }
+
   .navbar {
     width: auto;
     padding-right: 0;
@@ -182,11 +187,13 @@ footer {
     padding-right: 20px;
     width: auto;
   }
+
   .contaner {
     margin-left: 20px;
     margin-right: 20px;
     width: auto;
   }
+
   .navbar {
     width: auto;
     padding-right: 0px;
@@ -199,21 +206,25 @@ footer {
     margin-right: 20px;
     width: auto;
   }
+
   header {
     margin: 0;
     padding: 0;
     height: 120px;
   }
+
   .name {
     width: 100%;
     max-width: 640px;
     margin: 0;
     padding: 0;
   }
+
   .navlinks {
     float: left;
-    margin-left: 31%;
+    margin-left: 26%;
   }
+
   #about,
   #contact {
     padding-right: 10px;
@@ -228,6 +239,7 @@ footer {
     padding-left: 10px;
     margin-top: 10px;
   }
+
   .navbar {
     padding: 0;
     margin: 0;
