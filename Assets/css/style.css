@@ -169,6 +169,10 @@ footer {
   color: white;
 }
 
+.boxtext:hover {
+  color: darkblue;
+}
+
 @media screen and (max-width: 980px) {
   header {
     padding-left: 20px;
