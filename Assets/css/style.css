@@ -171,6 +171,17 @@ footer {
   margin-bottom: 25px;
 }
 
+.boxgit a {
+  position: absolute;
+  bottom: 50px;
+  height: 30px;
+  width: 150px;
+  background-color: #4aaaa5;
+  text-align: center;
+  padding-top: 5px;
+  color: white;
+}
+
 .boxtittle a {
   position: absolute;
   bottom: 10px;
