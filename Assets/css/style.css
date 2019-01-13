@@ -41,6 +41,8 @@ header {
   width: 960px;
 }
 
+
+
 #about,
 #contact {
   float: right;
@@ -79,6 +81,7 @@ a:hover {
   background-color: lightsteelblue;
   color: white !important;
 }
+
 
 .name {
   float: left;
@@ -140,6 +143,16 @@ footer {
   color: white;
   height: 30px;
   width: 80px;
+}
+
+#externalPortfolio {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  align-items: flex-start;
+  align-content: flex-start;
+  width: 300px;
 }
 
 .portfolioboxes {
