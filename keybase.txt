@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/sayex
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://ericsayer.com
+  * I am sayex (https://keybase.io/sayex) on keybase.
+  * I have a public key ASCBhFajm38SkNkVl6ttavPxaxxhQHnHY97pP1caoT0FmAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01208e6ae5284c6d2c2b3312b41c83069a89ba4112bf9860a9a21f17b0d701fab96e0a",
+      "host": "keybase.io",
+      "kid": "0120818456a39b7f1290d91597ab6d6af3f16b1c614079c763dee93f571aa13d05980a",
+      "uid": "5ddc280d0df7b5823db3e1ae12217e19",
+      "username": "sayex"
+    },
+    "merkle_root": {
+      "ctime": 1604391348,
+      "hash": "f952faaae602874ad32b2d71009ca11afe8f1ccf413708404bceff8e8c067830abc490283db750917ffcaba5e5465566637572dcd2555d01edbeb00c56538c96",
+      "hash_meta": "4304f72f732fbfc92d312fee63bebca3f81a58e1b0dc5aa3bbecebd3b314b0c8",
+      "seqno": 18003210
+    },
+    "service": {
+      "entropy": "u32yqPoajPf42hkM6c1BNncX",
+      "hostname": "ericsayer.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1604391359,
+  "expire_in": 504576000,
+  "prev": "633f1ca081ae1dbfdcf716dc1965764d0ba9af4d1c4015eb1f489070d3a5bfaf",
+  "seqno": 22,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEggYRWo5t/EpDZFZerbWrz8WscYUB5x2Pe6T9XGqE9BZgKp3BheWxvYWTESpcCFsQgYz8coIGuHb/c9xbcGWV2TQupr00cQBXrH0iQcNOlv6/EIFvgCjfg3L78lz+O1uQZ6eQCT8RuXX+ZAFdlfrY+5vZ8AgHCo3NpZ8RAgdeh9rX0Xug4CY4dZavEjgWCBdEQIo6x4pYsXnwlRbp/vO7Vj1Dir0TQC8r4jEW1GWbNlTtHbZiHk13oV/cxBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFFNNNiFzMyOcQqguR9fGyqd8oJR9rTvq6GZRk5wA+R6o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sayex
+
+==================================================================
